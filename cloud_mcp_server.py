@@ -30,7 +30,7 @@ OBSCURA_MCP_URL = "https://obscura-mcp-forever.forested-lung.workers.dev/mcp"
 CURATED_TOOLS = [
   {
     "name": "scrapling_doctor_and_status",
-    "description": "[Scrapling (D4Vinci) Omni-Nexus] Verify scrapling checkout, binaries, and 24/7 Cloud VM health.",
+    "description": "[Scrapling (D4Vinci) Omni-Nexus] [Scrapling (D4Vinci) Omni-Nexus] Verify scrapling checkout, binaries, and 24/7 Cloud VM health.",
     "inputSchema": {
       "type": "object",
       "properties": {
@@ -47,7 +47,7 @@ CURATED_TOOLS = [
   },
   {
     "name": "scrapling_discover_all_hidden_capabilities",
-    "description": "[Scrapling (D4Vinci) Omni-Nexus] Runtime auto-introspection on the 24/7 Cloud VM: scans --help, Makefile, package.json, pyproject.toml, Cargo.toml, mcp.json, and all scripts/modules.",
+    "description": "[Scrapling (D4Vinci) Omni-Nexus] [Scrapling (D4Vinci) Omni-Nexus] Runtime auto-introspection on the 24/7 Cloud VM: scans --help, Makefile, package.json, pyproject.toml, Cargo.toml, mcp.json, and all scripts/modules.",
     "inputSchema": {
       "type": "object",
       "properties": {
@@ -64,7 +64,7 @@ CURATED_TOOLS = [
   },
   {
     "name": "scrapling_run_any_subcommand_or_script",
-    "description": "[Scrapling (D4Vinci) Omni-Nexus] Universal dynamic executor: invoke any discovered CLI subcommand, flag, or internal script inside scrapling.",
+    "description": "[Scrapling (D4Vinci) Omni-Nexus] [Scrapling (D4Vinci) Omni-Nexus] Universal dynamic executor: invoke any discovered CLI subcommand, flag, or internal script inside scrapling.",
     "inputSchema": {
       "type": "object",
       "properties": {
@@ -81,7 +81,7 @@ CURATED_TOOLS = [
   },
   {
     "name": "scrapling_cli_build_backend",
-    "description": "[Scrapling (D4Vinci) Omni-Nexus] Execute Python entrypoint `build-backend` defined in `pyproject.toml`.",
+    "description": "[Scrapling (D4Vinci) Omni-Nexus] [Scrapling (D4Vinci) Omni-Nexus] Execute Python entrypoint `build-backend` defined in `pyproject.toml`.",
     "inputSchema": {
       "type": "object",
       "properties": {
@@ -98,7 +98,7 @@ CURATED_TOOLS = [
   },
   {
     "name": "scrapling_cli_name",
-    "description": "[Scrapling (D4Vinci) Omni-Nexus] Execute Python entrypoint `name` defined in `pyproject.toml`.",
+    "description": "[Scrapling (D4Vinci) Omni-Nexus] [Scrapling (D4Vinci) Omni-Nexus] Execute Python entrypoint `name` defined in `pyproject.toml`.",
     "inputSchema": {
       "type": "object",
       "properties": {
@@ -115,7 +115,7 @@ CURATED_TOOLS = [
   },
   {
     "name": "scrapling_cli_version",
-    "description": "[Scrapling (D4Vinci) Omni-Nexus] Execute Python entrypoint `version` defined in `pyproject.toml`.",
+    "description": "[Scrapling (D4Vinci) Omni-Nexus] [Scrapling (D4Vinci) Omni-Nexus] Execute Python entrypoint `version` defined in `pyproject.toml`.",
     "inputSchema": {
       "type": "object",
       "properties": {
@@ -132,7 +132,7 @@ CURATED_TOOLS = [
   },
   {
     "name": "scrapling_cli_scrapling",
-    "description": "[Scrapling (D4Vinci) Omni-Nexus] Execute Python entrypoint `scrapling` defined in `pyproject.toml`.",
+    "description": "[Scrapling (D4Vinci) Omni-Nexus] [Scrapling (D4Vinci) Omni-Nexus] Execute Python entrypoint `scrapling` defined in `pyproject.toml`.",
     "inputSchema": {
       "type": "object",
       "properties": {
@@ -149,7 +149,7 @@ CURATED_TOOLS = [
   },
   {
     "name": "scrapling_cli_scrapling_mcp",
-    "description": "[Scrapling (D4Vinci) Omni-Nexus] Execute Python entrypoint `scrapling-mcp` defined in `pyproject.toml`.",
+    "description": "[Scrapling (D4Vinci) Omni-Nexus] [Scrapling (D4Vinci) Omni-Nexus] Execute Python entrypoint `scrapling-mcp` defined in `pyproject.toml`.",
     "inputSchema": {
       "type": "object",
       "properties": {
@@ -166,7 +166,7 @@ CURATED_TOOLS = [
   },
   {
     "name": "scrapling_cli_python_version",
-    "description": "[Scrapling (D4Vinci) Omni-Nexus] Execute Python entrypoint `python_version` defined in `pyproject.toml`.",
+    "description": "[Scrapling (D4Vinci) Omni-Nexus] [Scrapling (D4Vinci) Omni-Nexus] Execute Python entrypoint `python_version` defined in `pyproject.toml`.",
     "inputSchema": {
       "type": "object",
       "properties": {
@@ -183,7 +183,7 @@ CURATED_TOOLS = [
   },
   {
     "name": "scrapling_native_mcp_manifest_bridge",
-    "description": "[Scrapling (D4Vinci) Omni-Nexus] Inspect and invoke native MCP definitions from `server.json`.",
+    "description": "[Scrapling (D4Vinci) Omni-Nexus] [Scrapling (D4Vinci) Omni-Nexus] Inspect and invoke native MCP definitions from `server.json`.",
     "inputSchema": {
       "type": "object",
       "properties": {
@@ -200,7 +200,7 @@ CURATED_TOOLS = [
   },
   {
     "name": "scrapling_cmd_covers",
-    "description": "[Scrapling (D4Vinci) Omni-Nexus] Execute CLI subcommand `Scrapling covers` discovered in README.md.",
+    "description": "[Scrapling (D4Vinci) Omni-Nexus] [Scrapling (D4Vinci) Omni-Nexus] Execute CLI subcommand `Scrapling covers` discovered in README.md.",
     "inputSchema": {
       "type": "object",
       "properties": {
@@ -217,7 +217,7 @@ CURATED_TOOLS = [
   },
   {
     "name": "scrapling_cmd_handles",
-    "description": "[Scrapling (D4Vinci) Omni-Nexus] Execute CLI subcommand `Scrapling handles` discovered in README.md.",
+    "description": "[Scrapling (D4Vinci) Omni-Nexus] [Scrapling (D4Vinci) Omni-Nexus] Execute CLI subcommand `Scrapling handles` discovered in README.md.",
     "inputSchema": {
       "type": "object",
       "properties": {
@@ -234,7 +234,7 @@ CURATED_TOOLS = [
   },
   {
     "name": "scrapling_cmd_runs",
-    "description": "[Scrapling (D4Vinci) Omni-Nexus] Execute CLI subcommand `Scrapling runs` discovered in README.md.",
+    "description": "[Scrapling (D4Vinci) Omni-Nexus] [Scrapling (D4Vinci) Omni-Nexus] Execute CLI subcommand `Scrapling runs` discovered in README.md.",
     "inputSchema": {
       "type": "object",
       "properties": {
@@ -251,7 +251,7 @@ CURATED_TOOLS = [
   },
   {
     "name": "scrapling_cmd_matches",
-    "description": "[Scrapling (D4Vinci) Omni-Nexus] Execute CLI subcommand `Scrapling matches` discovered in README.md.",
+    "description": "[Scrapling (D4Vinci) Omni-Nexus] [Scrapling (D4Vinci) Omni-Nexus] Execute CLI subcommand `Scrapling matches` discovered in README.md.",
     "inputSchema": {
       "type": "object",
       "properties": {
@@ -268,7 +268,7 @@ CURATED_TOOLS = [
   },
   {
     "name": "scrapling_cmd_have",
-    "description": "[Scrapling (D4Vinci) Omni-Nexus] Execute CLI subcommand `Scrapling have` discovered in README.md.",
+    "description": "[Scrapling (D4Vinci) Omni-Nexus] [Scrapling (D4Vinci) Omni-Nexus] Execute CLI subcommand `Scrapling have` discovered in README.md.",
     "inputSchema": {
       "type": "object",
       "properties": {
@@ -285,7 +285,7 @@ CURATED_TOOLS = [
   },
   {
     "name": "scrapling_obscura_live_docs_bridge",
-    "description": "[Scrapling (D4Vinci) Omni-Nexus] Scrape live docs, releases, and issues for D4Vinci/Scrapling via Obscura V8.",
+    "description": "[Scrapling (D4Vinci) Omni-Nexus] [Scrapling (D4Vinci) Omni-Nexus] Scrape live docs, releases, and issues for D4Vinci/Scrapling via Obscura V8.",
     "inputSchema": {
       "type": "object",
       "properties": {
@@ -302,7 +302,7 @@ CURATED_TOOLS = [
   },
   {
     "name": "scrapling_smod0_verified_pipeline",
-    "description": "[Scrapling (D4Vinci) Omni-Nexus] 3-Stage Composite: run scrapling -> cross-map with 9-Engine Cloud Mesh -> Check2 SMod0 guard.",
+    "description": "[Scrapling (D4Vinci) Omni-Nexus] [Scrapling (D4Vinci) Omni-Nexus] 3-Stage Composite: run scrapling -> cross-map with 9-Engine Cloud Mesh -> Check2 SMod0 guard.",
     "inputSchema": {
       "type": "object",
       "properties": {
@@ -319,7 +319,7 @@ CURATED_TOOLS = [
   },
   {
     "name": "gpu_cloudflare_workers_ai_infer",
-    "description": "[Scrapling (D4Vinci) Omni-Nexus] Run 24/7 free serverless GPU LLM/embedding inference on Cloudflare Workers AI Edge (10,000 Neurons/day, zero PC).",
+    "description": "[Scrapling (D4Vinci) Omni-Nexus] [Scrapling (D4Vinci) Omni-Nexus] Run 24/7 free serverless GPU LLM/embedding inference on Cloudflare Workers AI Edge (10,000 Neurons/day, zero PC).",
     "inputSchema": {
       "type": "object",
       "properties": {
@@ -369,7 +369,7 @@ TOOL_MODES = {
   "scrapling_cmd_matches": "cli_exec",
   "scrapling_cmd_have": "cli_exec",
   "scrapling_obscura_live_docs_bridge": "obscura_scrape",
-  "scrapling_smod0_verified_pipeline": "composite_pipeline",
+  "scrapling_smod0_verified_pipeline": "rule_validator",
   "gpu_cloudflare_workers_ai_infer": "gpu_compute"
 }
 
@@ -452,6 +452,7 @@ def dispatch_universal_tool(tool_name: str, arguments: dict) -> dict:
                 "cutter": "https://cutter-mcp-forever.forested-lung.workers.dev/mcp",
                 "rea": "https://rea-mcp-forever.forested-lung.workers.dev/mcp",
                 "rea_portal": "https://rea-portal-mcp-forever.forested-lung.workers.dev/mcp",
+                "scrapling": "https://scrapling-mcp-forever.forested-lung.workers.dev/mcp",
             },
             "payload_json": arguments.get("payload_json", "{}"),
         }
