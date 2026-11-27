@@ -1,8 +1,8 @@
 {
-  "status": "BOOTING",
+  "status": "LIVE",
   "engine": "scrapling",
   "title": "Scrapling (D4Vinci) Omni-Nexus",
-  "mcp_url": "",
-  "gui_url": "",
-  "updated_at": "2026-11-27T20:12:17Z"
+  "mcp_url": "https://reform-alias-personnel-came.trycloudflare.com/mcp",
+  "gui_url": "https://reform-alias-personnel-came.trycloudflare.com/",
+  "updated_at": "2026-11-27T20:13:12Z"
 }
