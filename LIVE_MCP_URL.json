@@ -1,8 +1,8 @@
 {
-  "status": "LIVE",
+  "status": "BOOTING",
   "engine": "scrapling",
   "title": "Scrapling (D4Vinci) Omni-Nexus",
-  "mcp_url": "https://clips-inspiration-download-slim.trycloudflare.com/mcp",
-  "gui_url": "https://clips-inspiration-download-slim.trycloudflare.com/",
-  "updated_at": "2026-11-27T19:25:57Z"
+  "mcp_url": "",
+  "gui_url": "",
+  "updated_at": "2026-11-27T20:12:17Z"
 }
